@@ -48,7 +48,7 @@ Neste caso, um dos lados é maior que a soma dos outros dois lados. Esta saída 
 
 Retorno em caso de erro
 
-![a](https://user-images.githubusercontent.com/84475339/166055366-8af8a248-f494-49a6-98ac-611ad246fff2.png)
+![a](https://user-images.githubusercontent.com/84475339/166059323-259f42d7-a419-4be7-a91c-13bb9ffceeff.png)
 
 =================================================================
 
