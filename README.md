@@ -24,7 +24,7 @@ Retorno em caso de invalidação do Triângulo
 
 ![a](https://user-images.githubusercontent.com/84475339/166045981-d257c52c-30e9-4b6c-a058-7856d0d479e7.png)
 
-Neste caso, um dos lados é maior que a soma dos outros dois lados. Esta saída pode ser reimpresso caso o valor da base não seja apresentada em um dos lados do triângulo.
+Neste caso, um dos lados é maior que a soma dos outros dois lados. Esta saída pode ser reimpressa caso o valor da base não seja apresentada em um dos lados do triângulo.
 
 Saída: Quadrado [NÚMERO 2]
 
@@ -36,7 +36,31 @@ Saída: Retângulo [NÚMERO 3]
 
 Saída: Trapézio [NÚMERO 4]
 
-*adendo
+*Comentário: O programa retornará erro, em caso da Base Maior ser representado por um valor inferior ao valor da Base Menor.
 
 ![image](https://user-images.githubusercontent.com/84475339/166037589-9ea1e47d-38a3-4822-99a0-8c06e3980996.png)
 
+Retorno em caso de erro
+
+![a](https://user-images.githubusercontent.com/84475339/166055366-8af8a248-f494-49a6-98ac-611ad246fff2.png)
+
+Saída: Círculo [NÚMERO 5]
+
+![a](https://user-images.githubusercontent.com/84475339/166055905-aa0a3330-4ab2-4bca-98c8-3f30fc06d5e2.png)
+
+Saída: Losango [NÚMERO 6]
+
+![a](https://user-images.githubusercontent.com/84475339/166057729-e089d12c-5ca7-4293-a719-4dff518950d7.png)
+
+Saída: Sair do Programa [NÚMERO 7]
+
+![a](https://user-images.githubusercontent.com/84475339/166057863-a96e6648-320b-4351-9307-e89e3402c859.png)
+
+Encerramento do programa.
+
+Caso o usuário insira um número que nao esteja dentro do intervalo de 1 e 7, será retornado uma mensagem de erro e o programa será reiniciado automaticamente.
+
+![a](https://user-images.githubusercontent.com/84475339/166058458-a2f0a0c5-cdb0-44a4-b6cf-9881f752ac84.png)
+
+# Autor
+Otávio Moraes Braga
