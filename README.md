@@ -16,7 +16,7 @@ Após a escolha da figura plana, o programa é iniciado, e cada figura plana pos
 
 ● Saída: Triângulo [NÚMERO 1]
 
-→ Comentário: primeiramente o programa fará uma validação do triâgulo, conferindo se o valor da base será reeinserido em um dos lados pedidos do triângulo, a próxima validação irá conferir se um dos lados é menor que a soma dos outros dois lados do triângulo. Irá ser impresso também o tipo de Triângulo que está sendo tratado, a partir das medidas apresentadas
+→ Comentário: primeiramente o programa fará uma validação do triâgulo, conferindo se o valor da base será reeinserido em um dos lados pedidos do triângulo, a próxima validação irá conferir se um dos lados é menor que a soma dos outros dois lados do triângulo. Irá ser impresso também o tipo de Triângulo que está sendo tratado, a partir das medidas apresentadas.
 
 ![a](https://user-images.githubusercontent.com/84475339/166010139-77fa0173-eb90-416d-acd1-6da7adddaa3a.png)
 
