@@ -42,7 +42,7 @@ Neste caso, um dos lados é maior que a soma dos outros dois lados. Esta saída 
 
 ● Saída: Trapézio [NÚMERO 4]
 
-→ Comentário: O programa retornará erro, em caso da Base Maior ser representado por um valor inferior ao valor da Base Menor.
+→ Comentário: O programa retornará erro, em caso da Base Maior ser representado por um valor inferior ao valor da Base Menor. O programa irá continuar o seu prosseguimento a partir da entrada dos dados correspondente a figura selecionada, neste caso, o trapézio.
 
 ![image](https://user-images.githubusercontent.com/84475339/166037589-9ea1e47d-38a3-4822-99a0-8c06e3980996.png)
 
