@@ -6,7 +6,7 @@ Projeto pessoal e desenvolvido para agilizar o cálculo de figuras planas.
 
 # Como funciona?
 
-Inicialmente é apresentado ao usuário um Menu com todas as figuras planas suportadas pelo programa e o seu respectivo número, facilitando a comunicação com o usuário. Os resultados produzidos por cada input, também é informado a fórmula exigida para o cálculo ser realizado, trazendo um sentido mais didático para o programa.
+Inicialmente é apresentado ao usuário um Menu com todas as figuras planas suportadas pelo programa e o seu respectivo número, facilitando a comunicação com o usuário. Além dos resultados produzidos pelos cálculos, também é informado a fórmula exigida para o cálculo ser realizado, trazendo um sentido mais didático para o programa.
 
 ![a](https://user-images.githubusercontent.com/84475339/166009345-0da64bbe-9bc3-4700-8d66-34d37df26101.png)
 
