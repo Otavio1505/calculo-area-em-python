@@ -73,7 +73,7 @@ Encerramento do programa.
 
 =================================================================
 
-Caso o usuário insira um número que nao esteja dentro do intervalo de 1 e 7, será retornado uma mensagem de erro e o programa será reiniciado automaticamente.
+Caso o usuário insira um número que nao esteja dentro do intervalo de 1 e 7 no Menu de seleção das figuras, será retornado uma mensagem de erro e o programa será reiniciado automaticamente.
 
 ![a](https://user-images.githubusercontent.com/84475339/166058458-a2f0a0c5-cdb0-44a4-b6cf-9881f752ac84.png)
 
